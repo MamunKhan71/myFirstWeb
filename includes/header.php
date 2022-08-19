@@ -10,7 +10,7 @@
     <body id = "final-example">
         <div class = "wrapper"> 
             <div id="banner"> 
-                <a href="/" title="Return to home"> <img src="img/banner.png" alt="Franklin's Fine Dining"></a>
+                <a href="/" title="Return to home"> <img src="img/mamundine.jpg" alt="Franklin's Fine Dining"></a>
             </div> <!--Banner -->
             <div id = "nav"> 
                     <?php include('includes/nav.php'); ?>
