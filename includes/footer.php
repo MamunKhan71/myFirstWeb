@@ -12,7 +12,7 @@
                     <strong>Hours</strong>
                     <em>Tuesday - Thursday </em><br>
                     1:00pm - 9:00pm <br><br>
-                    <em>Friday - Saturday </em><br><br>
+                    <em>Friday - Saturday </em><br>
                     4:00pm - 9:00pm<br><br>
                     <em>Sunday - Mondayday </em><br><br>
                     Closed<br>
