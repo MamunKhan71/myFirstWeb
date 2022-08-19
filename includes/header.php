@@ -1,5 +1,5 @@
 <?php
-    $comp_name = "Md. Mamun";
+    $comp_name = "Mamun's Dine";
     include('includes/arrays.php');
 ?>
 
