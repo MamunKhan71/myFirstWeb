@@ -4,7 +4,7 @@ define("TITLE","Team | Md. Mamun");
 ?>
 <div id="team-members" class="cf">
     <h1>Our Team at Mamun's Dine</h1>
-    <p>We are small, but mighty. Franklin's Fine Dining has been a family owned and run business since the dirty thirties.</p>
+    <p>We are small, but mighty. Mamun's Fine Dining has been a family owned and run business since the dirty thirties.</p>
     <hr>
 <?php
     foreach($teamMembers as $members){
