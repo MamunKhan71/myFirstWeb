@@ -9,10 +9,14 @@ include('includes/header.php');
         $menuItem = strip_bad_chars($_GET["item"]);
         $dish = $menuItems[$menuItem];
     }
+    //money formatting
+    function your_money_format($value) {
+        return number_format($value, 2);
+      }
     // calculated suggested tip
     function suggested_tip($price,$tip){
         $totalTip = $price * $tip;
-        echo money_format('%.2n',$totalTip);
+        echo your_money_format($totalTip);
     }
     
     ?>
