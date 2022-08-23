@@ -5,8 +5,8 @@
                         01643091606
                     </div> <!--Column -->
                     <div class = "column three">
-                    <strong>Location</strong>
-                    Ashulia, Savar, Dhaka <br>
+                    <strong>Location<br></strong>
+                    Ashulia, Savar, Dhaka<br>
                     </div> <!--Column -->
                     <div class = "column three last">
                     <strong>Hours</strong>
@@ -14,8 +14,8 @@
                     1:00pm - 9:00pm <br><br>
                     <em>Friday - Saturday </em><br>
                     4:00pm - 9:00pm<br><br>
-                    <em>Sunday - Mondayday </em><br><br>
-                    Closed<br>
+                    <em>Sunday - Mondayday </em><br>
+                    Closed<br><br>
                     <?php include('includes/index.php') ?>;
                     </div> <!--Column -->
                 </div> <!--footer -->
@@ -23,7 +23,7 @@
             </div> <!--content -->
         </div> <!--wrapper -->
         <div class = "copyright-info">
-            <?php include('.../asseet/includes/copyright.php');?>
+            <?php include('asseet/includes/copyright.php');?>
         </div>
 </body>
 </html>

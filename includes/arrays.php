@@ -28,7 +28,7 @@
 
     $teamMembers = array(
         array(
-            "name" => "Frankie",
+            "name" => " ",
             "position" => "Owner",
             "bio" => "He cooks delicious food",
             "img" => "frankie"
