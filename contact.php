@@ -41,7 +41,7 @@
         
     ?>
     <h5> Thanks for contacting Mamun's dine</h5>
-    <p> Please allow 24 hour for a response</p>
+    <p> Please allow 24 hours for a response</p>
     <p><a hfref="/final" class = " button block">&laquo; Go to home page</a> </p>
     <?php } else { ?>
 
